@@ -4,5 +4,5 @@
 
 echo "Remove acces to shared directories"
 deluser $1 share
-rm -R /home/$1/share
+rm  /home/$1/share
 
